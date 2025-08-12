@@ -1,6 +1,6 @@
 ## 📊 E-commerce Analytics Dashboard
 
-🚀 Modern E-commerce Analytics Dashboard built with **React**, **Chart.js** & **Tailwind CSS**.  
+Modern E-commerce Analytics Dashboard built with **React**, **Chart.js** & **Tailwind CSS**.  
 Interactive charts, responsive design, and beautiful UI for business insights.
 
 ### ✨ Features
